@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/beatrizdasilva">
-  <img height="180em" width="170em" src="https://github-readme-stats.vercel.app/api?username=beatrizdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizdasilva&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=beatrizdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizdasilva&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <!--
 **beatrizdasilva/beatrizdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
